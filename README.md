@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/SagoDev/SagoDev/blob/main/Banner/Image.png)
+![](https://github.com/SagoDev/SagoDev/blob/main/Banner/Image.png)
 <h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
 <h3 align="center">Frontend developer</h3>
 
