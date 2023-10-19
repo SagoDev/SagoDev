@@ -1,3 +1,4 @@
+![]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true](https://github.com/SagoDev/SagoDev/blob/main/Banner/Image.png))
 <h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
 <h3 align="center">Frontend developer</h3>
 
