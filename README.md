@@ -4,7 +4,7 @@
 
 - 🌱 ESTOY ESTUDIANDO **Desarrollo web en JaP (Ceibal)**
 
-- 📫 PUEDES CONTACTARME EN **santiagolanz019@gmail.com**
+- 📫 PUEDES CONTACTARME A **santiagolanz019@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
