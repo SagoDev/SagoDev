@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 ESTOY ESTUDIANDO **Desarrollo web en JaP (Ceibal)**
+- 🌱 ESTOY ESTUDIANDO **Desarrollo web en Jovenes a Programar (Ceibal)**
 
 - 📫 PUEDES CONTACTARME A **santiagolanz019@gmail.com**
 
