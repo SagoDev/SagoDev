@@ -2,8 +2,9 @@
 
 
 <h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
-<h3 align="center">Desarrollador Web Jr. apasionado por la creación de sitios web interactivos. Me proyecto como alguien organizado, comunicativo y un colaborador efectivo en equipos. Además, soy autodidacta y versátil, siempre buscando aprender y adaptarme a nuevas tecnologías. Estoy entusiasmado por seguir creciendo en el mundo del desarrollo web y contribuir al éxito de proyectos emocionantes. 🚀💻😊</h3>
-<h3 align="center">Jr. Web Developer passionate about creating interactive websites. I project myself as someone organized, communicative and an effective collaborator in teams. In addition, I am self-taught and versatile, always looking to learn and adapt to new technologies. I am excited to continue to grow in the world of web development and contribute to the success of exciting projects. 🚀💻😊</h3>
+<h3 align="center">Soy desarrollador front-end y analista de datos Jr., con base en Florida, Uruguay, y más de 2 años de experiencia perfeccionando habilidades técnicas en ambos campos. He desarrollado proyectos prácticos, tanto individuales como en equipo, bajo la guía de instituciones como Ceibal y Guayerd, utilizando herramientas como JavaScript, React y Power BI.
+
+Me apasiona crear sitios web intuitivos y análisis de datos que ayuden a personas y empresas a tomar decisiones informadas, impulsando su desarrollo y éxito. Busco constantemente desafíos que me permitan combinar creatividad y tecnología para generar soluciones significativas. 🚀💻😊</h3>
 
 - 📫 How to reach me **santiagolanz019@gmail.com**
 
