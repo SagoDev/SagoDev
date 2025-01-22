@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
-<h3 align="center">Soy desarrollador front-end y analista de datos Jr., con base en Florida, Uruguay, y más de 2 años de experiencia perfeccionando habilidades técnicas en ambos campos. He desarrollado proyectos prácticos, tanto individuales como en equipo, bajo la guía de instituciones como Ceibal y Guayerd, utilizando herramientas como JavaScript, React y Power BI.
+<h3 align="center">Soy desarrollador front-end y analista de datos Jr., con base en Florida, Uruguay, y más de 2 años de experiencia perfeccionando habilidades técnicas en ambos campos. He desarrollado proyectos prácticos, tanto individuales como en equipo, bajo la guía de instituciones como Ceibal y Guayerd, utilizando herramientas como JavaScript, HTML, CSS, SQL.
 
-Me apasiona crear sitios web intuitivos y análisis de datos que ayuden a personas y empresas a tomar decisiones informadas, impulsando su desarrollo y éxito. Busco constantemente desafíos que me permitan combinar creatividad y tecnología para generar soluciones significativas. 🚀💻😊</h3>
+Me apasiona crear sitios web intuitivos que ayuden a personas y empresas a tomar decisiones informadas, impulsando su desarrollo y éxito. Busco constantemente desafíos que me permitan combinar creatividad y tecnología para generar soluciones significativas. 🚀💻😊</h3>
 
 - 📫 How to reach me **santiagolanz019@gmail.com**
 
