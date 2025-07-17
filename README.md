@@ -1,17 +1,74 @@
-![](https://github.com/SagoDev/SagoDev/blob/main/Banner/Banner.png?raw=true)
+<h1 align="center">¡Hola, soy Santiago Lanz 👋!</h1>
 
-
-<h1 align="center">Hola 👋, Soy Santiago Lanz</h1>
-<h4 align="center">Soy desarrollador front-end y analista de datos Jr., con base en Florida, Uruguay, y más de 2 años de experiencia perfeccionando habilidades técnicas en ambos campos. He desarrollado proyectos prácticos, tanto individuales como en equipo, bajo la guía de instituciones como Ceibal y Guayerd, utilizando herramientas como JavaScript, HTML, CSS, SQL.
-
-Me apasiona crear sitios web intuitivos que ayuden a personas y empresas a tomar decisiones informadas, impulsando su desarrollo y éxito. Busco constantemente desafíos que me permitan combinar creatividad y tecnología para generar soluciones significativas. 🚀💻😊</h4>
-
-- 📫 How to reach me **santiagolanz019@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiago-lanz-web-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-lanz-web-developer/" height="30" width="40" /></a>
+<p align="center">
+💻 Autodidacta | 👨‍💼 Experiencia administrativa | 🚀 En formación continua en TI  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/">🌐 Portafolio</a> •
+  <a href="https://www.linkedin.com/in/santiagolanz/">💼 LinkedIn</a> •
+  <a href="mailto:santiagolanz019@gmail.com">📩 Email</a>
+</p>
+
+---
+
+### 🧠 Sobre mí
+
+Persona autodidacta y proactiva con +1 año desempeñando trabajos administrativos y +3 años en formación continua en el sector TI.  
+Deseo aprovechar mis capacidades técnicas y habilidades transversales para generar valor a través de un trabajo profesional, analítico, lógico y flexible.  
+Quiero transformar mi esfuerzo en resultados concretos que contribuyan al éxito de personas y/o empresas.  
+Enfrento los desafíos con creatividad, adaptándome rápidamente para resolver problemas de manera eficiente.
+
+---
+
+### 🛠️ Tecnologías que manejo
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GeneXus 18](https://img.shields.io/badge/-GeneXus%2018-A31D1D?style=flat&logo=genexus&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🌟 Habilidades blandas (Soft Skills)
+
+- 🗣️ Nativo en Español · Inglés B1  
+- 🤝 Trabajo en equipo y excelentes relaciones interpersonales  
+- 🧠 Pensamiento analítico y fuerte determinación  
+- 💬 Comunicación efectiva  
+- ⚡ Proactividad y adaptabilidad
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagoDev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagoDev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🎯 Objetivo
+
+Mi meta es integrarme a un equipo donde pueda seguir aprendiendo y aportar valor mediante una mirada lógica, creativa y humana al desarrollo de soluciones tecnológicas.
+
+---
+
+### 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiagolanz/)
+- 🌐 [Portafolio Web](https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/)
+- ✉️ Correo: [santiagolanz019@gmail.com](mailto:santiagolanz019@gmail.com)
+
+---
+
+### ⚡ Frase que me representa
+
+> "Resolver problemas no es solo técnica, también es empatía y comunicación."
