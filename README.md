@@ -69,6 +69,3 @@ Mi meta es integrarme a un equipo donde pueda seguir aprendiendo y aportar valor
 
 ---
 
-### ⚡ Frase que me representa
-
-> "Resolver problemas no es solo técnica, también es empatía y comunicación."
