@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Santiago Lanz 👋!</h1>
+<h1 align="center">¡Hola, soy Santiago Lanz 👋</h1>
 
 <p align="center">
 💻 Autodidacta | 👨‍💼 Experiencia administrativa | 🚀 En formación continua en TI  
@@ -42,16 +42,6 @@ Enfrento los desafíos con creatividad, adaptándome rápidamente para resolver 
 - 🧠 Pensamiento analítico y fuerte determinación  
 - 💬 Comunicación efectiva  
 - ⚡ Proactividad y adaptabilidad
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagoDev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagoDev&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
