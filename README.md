@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/">🌐 Portafolio</a> •
-  <a href="https://www.linkedin.com/in/santiagolanz/">💼 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/santiagolanz/">💼 LinkedIn</a>
 </p>
 
 ---
