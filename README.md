@@ -55,7 +55,6 @@ Mi meta es integrarme a un equipo donde pueda seguir aprendiendo y aportar valor
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiagolanz/)
 - 🌐 [Portafolio Web](https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/)
-- ✉️ Correo: [santiagolanz019@gmail.com](mailto:santiagolanz019@gmail.com)
 
 ---
 
