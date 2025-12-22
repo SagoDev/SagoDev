@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/">🌐 Portafolio</a> •
+  <a href="https://sagodev.github.io/My-Portfolio-Web/">🌐 Portafolio</a> •
   <a href="https://www.linkedin.com/in/santiagolanz/">💼 LinkedIn</a>
 </p>
 
@@ -53,7 +53,5 @@ Mi meta es integrarme a un equipo donde pueda seguir aprendiendo y aportar valor
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiagolanz/)
-- 🌐 [Portafolio Web](https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/)
-
 ---
 
