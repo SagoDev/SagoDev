@@ -13,10 +13,9 @@
 
 ### 🧠 Sobre mí
 
-Persona autodidacta y proactiva con +1 año desempeñando trabajos administrativos y +3 años en formación continua en el sector TI.  
-Deseo aprovechar mis capacidades técnicas y habilidades transversales para generar valor a través de un trabajo profesional, analítico, lógico y flexible.  
+Persona autodidacta y proactiva con +3 años en formación continua en el sector TI.  
+Aprovecho mis capacidades técnicas y habilidades transversales para generar valor a través de un trabajo profesional, analítico, lógico y flexible.  
 Quiero transformar mi esfuerzo en resultados concretos que contribuyan al éxito de personas y/o empresas.  
-Enfrento los desafíos con creatividad, adaptándome rápidamente para resolver problemas de manera eficiente.
 
 ---
 
@@ -46,7 +45,7 @@ Enfrento los desafíos con creatividad, adaptándome rápidamente para resolver 
 
 ### 🎯 Objetivo
 
-Mi meta es integrarme a un equipo donde pueda seguir aprendiendo y aportar valor mediante una mirada lógica, creativa y humana al desarrollo de soluciones tecnológicas.
+Mi meta es aportar valor y ayudar a quien lo necesite mediante el desarrollo de soluciones tecnológicas.
 
 ---
 
