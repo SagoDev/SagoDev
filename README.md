@@ -48,9 +48,3 @@ Quiero transformar mi esfuerzo en resultados concretos que contribuyan al éxito
 Mi meta es aportar valor y ayudar a quien lo necesite mediante el desarrollo de soluciones tecnológicas.
 
 ---
-
-### 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiagolanz/)
----
-
