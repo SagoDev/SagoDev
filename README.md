@@ -48,3 +48,8 @@ Quiero transformar mi esfuerzo en resultados concretos que contribuyan al éxito
 Mi meta es aportar valor y ayudar a quien lo necesite mediante el desarrollo de soluciones tecnológicas.
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SagoDev&theme=default_repocard" alt="Streak Stats" width="87%" />
+</p>
