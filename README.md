@@ -13,9 +13,21 @@
 
 ### 🧠 Sobre mí
 
-Persona autodidacta y proactiva con +3 años en formación continua en el sector TI.  
-Aprovecho mis capacidades técnicas y habilidades transversales para generar valor a través de un trabajo profesional, analítico, lógico y flexible.  
-Quiero transformar mi esfuerzo en resultados concretos que contribuyan al éxito de personas y/o empresas.  
+Soy un Analista / Desarrollador enfocado en automatización con Python, con especial interés en la automatización de procesos basados en datos.
+
+Me centro en diseñar y desarrollar soluciones que reemplazan o optimizan procesos manuales, como la generación de reportes, el análisis de información, controles operativos y tareas repetitivas, priorizando siempre la calidad de datos, la trazabilidad y la ejecución automática.
+
+Abordo los problemas desde una perspectiva de proceso, no solo de código. Me interesa comprender el flujo completo de la información —desde la ingesta y limpieza de datos, hasta el análisis, la presentación de resultados y la orquestación— para construir automatizaciones mantenibles, reutilizables y adaptables a distintos contextos de negocio.
+
+Trabajo principalmente con Python y herramientas del ecosistema de datos como pandas, visualización y generación de reportes, estructurando los proyectos con principios claros de responsabilidad, configuración desacoplada y logging consistente.
+
+Me defino como una persona autodidacta, analítica y orientada a la mejora continua, con interés en seguir creciendo en roles vinculados a:
+
+- Automatización de procesos
+- Análisis y transformación de datos
+- Desarrollo de soluciones internas orientadas a eficiencia operativa
+
+Busco aportar valor construyendo sistemas simples, claros y bien estructurados que ayuden a las personas y a las organizaciones a tomar mejores decisiones y reducir fricción operativa.
 
 ---
 
