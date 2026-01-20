@@ -17,7 +17,7 @@ Soy un Analista / Desarrollador enfocado en automatización con Python, con espe
 
 Me centro en diseñar y desarrollar soluciones que reemplazan o optimizan procesos manuales, como la generación de reportes, el análisis de información, controles operativos y tareas repetitivas, priorizando siempre la calidad de datos, la trazabilidad y la ejecución automática.
 
-Abordo los problemas desde una perspectiva de proceso, no solo de código. Me interesa comprender el flujo completo de la información —desde la ingesta y limpieza de datos, hasta el análisis, la presentación de resultados y la orquestación— para construir automatizaciones mantenibles, reutilizables y adaptables a distintos contextos de negocio.
+Abordo los problemas desde una perspectiva de proceso, no solo de código. Me interesa comprender el flujo completo de la información desde la ingesta y limpieza de datos, hasta el análisis, la presentación de resultados y la orquestación para construir automatizaciones mantenibles, reutilizables y adaptables a distintos contextos de negocio.
 
 Trabajo principalmente con Python y herramientas del ecosistema de datos como pandas, visualización y generación de reportes, estructurando los proyectos con principios claros de responsabilidad, configuración desacoplada y logging consistente.
 
