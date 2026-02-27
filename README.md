@@ -13,9 +13,9 @@
 
 ### 🧠 Sobre mí
 
-Soy un Analista / Desarrollador enfocado en automatización con Python, con especial interés en la automatización de procesos basados en datos.
+Soy un ingeniero de datos y desarrollador python junior, con especial interés en la automatización de procesos basados en datos utilizando herramientas de análisis de datos y Python.
 
-Me centro en diseñar y desarrollar soluciones que reemplazan o optimizan procesos manuales, como la generación de reportes, el análisis de información, controles operativos y tareas repetitivas, priorizando siempre la calidad de datos, la trazabilidad y la ejecución automática.
+Me centro en diseñar y desarrollar soluciones que reemplazan u optimizan procesos manuales, como la generación de reportes, el análisis de información, controles operativos y tareas repetitivas, priorizando siempre la calidad de datos, la trazabilidad y la ejecución automática.
 
 Abordo los problemas desde una perspectiva de proceso, no solo de código. Me interesa comprender el flujo completo de la información desde la ingesta y limpieza de datos, hasta el análisis, la presentación de resultados y la orquestación para construir automatizaciones mantenibles, reutilizables y adaptables a distintos contextos de negocio.
 
