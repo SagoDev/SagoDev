@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Santiago Lanz 👋</h1>
 
 <p align="center">
-💻 Autodidacta | 👨‍💼 Experiencia administrativa | 🚀 En formación continua en TI  
+💻 Autodidacta | 🚀 En formación continua en TI  
 </p>
 
 <p align="center">
